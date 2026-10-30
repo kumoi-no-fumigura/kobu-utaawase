@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kobu-utaawase",
  "yomi": "こうぶうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十四番）",
+  "era": "室町中期（応仁の乱の後）",
+  "author": "判者 南華老人（奥書の署名）",
+  "desc": "公家と武家の歌人を合わせた歌合。中御門宣胤・飯尾氏らが詠む。序に、撰集の勅命が世の乱れで頓挫し、撰者も近江柏木に退いたことを記す。判者は「南華老人」と署名する。"
+ },
  "editions": [
   {
    "pid": "1879502",
